@@ -1,4 +1,5 @@
-# SmokeBuster
+# SmokeBuster <img src="./assets/smokebuster.png" alt="logo" width="20"/>
+
 A tool to detect, analyze, and remediate SmokeLoader infections.
 
 # Compatibility
