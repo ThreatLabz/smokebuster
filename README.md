@@ -8,16 +8,16 @@ SmokeBuster has been tested with Windows 7 through Windows 11. The tool has been
 # Usage
 ```
 Usage: SmokeDetector.exe v0.1 [options]
-        -u    --uninstall            Uninstall Smoke.
-        -v    --save-memory          Scan Smoke memory and save matches to disk.
-        -p    --delete-tasks         Delete Smoke persistent scheduled tasks.
-        -w    --make-sections-rwx    Make Smoke memory sections RWX.
+        -u    --uninstall            Uninstall Smoke
+        -v    --save-memory          Scan Smoke memory and save matches to disk
+        -p    --delete-tasks         Delete Smoke persistent scheduled tasks
+        -w    --make-sections-rwx    Make Smoke memory sections PAGE_EXECUTE_READWRITE
         -c    --close-mutexes        Close Smoke mutexes
-        -k    --kill-thread          Terminate a specific Smoke thread ID (separate multiple IDs by commas).
+        -k    --kill-thread          Terminate a specific Smoke thread ID (separate multiple IDs by commas)
         -K    --killall-threads      Terminate all Smoke threads in explorer.exe
-        -s    --suspend-thread       Suspend a specific Smoke thread ID (separate multiple IDs by commas).
+        -s    --suspend-thread       Suspend a specific Smoke thread ID (separate multiple IDs by commas)
         -S    --suspendall-threads   Suspend all Smoke threads in explorer.exe
-        -r    --resume-thread        Resume a specific Smoke thread ID (separate multiple IDs by commas))
+        -r    --resume-thread        Resume a specific Smoke thread ID (separate multiple IDs by commas)
         -R    --resumeall-threads    Resume all Smoke threads in explorer.exe
         -m    --unmap-memory         Free Smoke memory regions in explorer.exe
         -h    --help                 Show help and exit
