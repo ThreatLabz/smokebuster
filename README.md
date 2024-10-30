@@ -24,8 +24,12 @@ Usage: SmokeDetector.exe v0.1 [options]
 ```
 
 # Example SmokeLoader Samples
-|SHA256|
-|:------------------------------------------------------------------|
-|50f10e4d8b5379fae2477fcc13bb6403d3d7df441f46bfbeb9218a70cb2cfde8|
-|55fbf14b87a98b21febd83146f2d19096370440642121cffbfcc2c26e55f0723|
+|SHA256|Version|
+|:------------------------------------------------------------------|--|
+|c78bc4fb8955940b3ac9b52cb16744a61f8bdaf673fd64fc106465241c56cc6c| 2022|
+|7377efde4e4e86650ab8495f57ab4a76d4f8efe31e2962305b8c42a6cee70454| 2020|
+|d5efd66f54dce6b51870e40a458fa30de366a2982ab2f83dddff5cb3349f654d| 2019|
+|5727c2cd54b8408ca0f8e943cad61027a2c3d51da64f2f1224a6b9acc4820f8e| 2018|
+|32ba1f3b96cf77a08c041d4983d6afa7db8e1948d27d6a8dd55b7bb95e493189| 2017|
+
 
