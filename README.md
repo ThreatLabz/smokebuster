@@ -3,7 +3,7 @@
 A tool to detect, analyze, and remediate SmokeLoader infections.
 
 # Compatibility
-SmokeBuster has been tested with Windows 7 through Windows 11. The tool has been tested with SmokeLoader 32-bit and 64-bit versions from 2017 - 2022.
+SmokeBuster is compatible with Windows 7 through Windows 11 and supports SmokeLoader 32-bit and 64-bit versions from 2017 - 2022.
 
 # Usage
 ```
