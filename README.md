@@ -7,7 +7,7 @@ SmokeBuster is compatible with Windows 7 through Windows 11 and supports SmokeLo
 
 # Usage
 ```
-Usage: SmokeDetector.exe v0.1 [options]
+Usage: SmokeBuster_x64_v_0.0.1.exe [options]
         -u    --uninstall            Uninstall Smoke
         -v    --save-memory          Scan Smoke memory and save matches to disk
         -p    --delete-tasks         Delete Smoke persistent scheduled tasks
@@ -22,6 +22,14 @@ Usage: SmokeDetector.exe v0.1 [options]
         -m    --unmap-memory         Free Smoke memory regions in explorer.exe
         -h    --help                 Show help and exit
 ```
+# Clean System Demo
+<img src="./assets/smoke_clean.png">
+
+# Active Infection Demo
+<img src="./assets/smoke_infected.png">
+
+# Reference Blog
+More details about SmokeBuster and bugs discovered in SmokeLoader can be found here: https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free
 
 # Example SmokeLoader Samples
 |SHA256|Version|
