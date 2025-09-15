@@ -33,7 +33,7 @@ More information about SmokeLoader has been published by ThreatLabz here:
 * https://www.zscaler.com/blogs/security-research/smokeloader-rises-ashes
 * https://www.zscaler.com/blogs/security-research/operation-endgame-smoke
 * https://www.zscaler.com/blogs/security-research/brief-history-smokeloader-part-1
-* https://www.zscaler.com/blogs/security-research/brief-history-smokeloader-part-1
+* https://www.zscaler.com/blogs/security-research/brief-history-smokeloader-part-2
 
 More details about SmokeBuster and bugs discovered in SmokeLoader can be found here:
 * https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free
