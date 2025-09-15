@@ -3,11 +3,11 @@
 A tool to detect, analyze, and remediate SmokeLoader infections.
 
 # Compatibility
-SmokeBuster is compatible with Windows 7 through Windows 11 and supports SmokeLoader 32-bit and 64-bit versions from 2017 - 2022.
+SmokeBuster is compatible with Windows 7 through Windows 11 and supports SmokeLoader 32-bit and 64-bit versions from 2017 - 2022 as well as versions 2025 alpha and 2025 (currently the 64-bit main module only).
 
 # Usage
 ```
-Usage: SmokeBuster_x64_v_0.0.1.exe [options]
+Usage: SmokeBuster_x64_v_0.1.1.exe [options]
         -u    --uninstall            Uninstall Smoke
         -v    --save-memory          Scan Smoke memory and save matches to disk
         -p    --delete-tasks         Delete Smoke persistent scheduled tasks
@@ -28,12 +28,21 @@ Usage: SmokeBuster_x64_v_0.0.1.exe [options]
 # Active Infection Demo
 <img src="./assets/smoke_infected.png">
 
-# Reference Blog
-More details about SmokeBuster and bugs discovered in SmokeLoader can be found here: https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free
+# Reference Blogs
+More information about SmokeLoader has been published by ThreatLabz here:
+* https://www.zscaler.com/blogs/security-research/smokeloader-rises-ashes
+* https://www.zscaler.com/blogs/security-research/operation-endgame-smoke
+* https://www.zscaler.com/blogs/security-research/brief-history-smokeloader-part-1
+* https://www.zscaler.com/blogs/security-research/brief-history-smokeloader-part-1
+
+More details about SmokeBuster and bugs discovered in SmokeLoader can be found here:
+* https://www.zscaler.com/blogs/security-research/smokebuster-keeping-systems-smokeloader-free
 
 # Example SmokeLoader Samples
 |SHA256|Version|
 |:------------------------------------------------------------------|--|
+|d38f9ab81a054203e5b5940e6d34f3c8766f4f4104b14840e4695df511feaa30| 2025|
+|fe18dba2d72ccf4a907d07674b18d1bc23e3ea10f66cbf2a79e73000df43b358| 2025 alpha|
 |c78bc4fb8955940b3ac9b52cb16744a61f8bdaf673fd64fc106465241c56cc6c| 2022|
 |7377efde4e4e86650ab8495f57ab4a76d4f8efe31e2962305b8c42a6cee70454| 2020|
 |d5efd66f54dce6b51870e40a458fa30de366a2982ab2f83dddff5cb3349f654d| 2019|
